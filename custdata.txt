@@ -1,0 +1,4 @@
+Vadi,chn,33,600001
+Muthu,chn,33,600042
+Lincy,blr,44,450000
+Bob,hyd,39,800001
